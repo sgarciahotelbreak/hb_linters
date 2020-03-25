@@ -1,6 +1,6 @@
 # HB Linters
 
-Linters we use
+Linters are using
 
 ### Ruby on Rails
 
